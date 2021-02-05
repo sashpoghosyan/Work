@@ -1,0 +1,126 @@
+
+.box-res h2{
+    display: flex;
+    margin-left: 170px;
+    margin-top: 80px;
+    font-size: 15px;
+    
+    
+}
+.header-main{
+    display: flex;
+    justify-content: space-around;
+    margin: 125px;
+    margin-top: 60px;
+
+}
+.header-main img{
+    width: 160px;
+    height: 160px;
+    border-radius: 10px;
+    position: relative;
+    left: 5px;
+    top: 5px;
+    
+}
+.header-main p{
+    font-size: 12px;
+    opacity: 0.6;
+    position: relative;
+    left: 5px;
+    top: 10px;
+}
+.icon-kgs{
+    display: flex;
+    position: relative;
+    top: 30px;
+}
+.icons-kg{
+    position: relative;
+    left: 7px
+}
+ .iko-lik{
+    position: relative;
+    left: 7px;
+    top: 30px;
+    
+}
+.links-iko{
+    position: relative;
+    left: 7px;
+    top: 30px;
+}
+.bet-link{
+    position: relative;
+    left: 7px;
+    top: 30px;
+}  
+.get-link{
+    position: relative;
+    left: 57px;
+    top: 30px;
+    background: #ff0075;
+    color: #fff;
+    padding: 1px 15px;
+    border-radius: 12px; 
+}
+.ix-link{
+    position: relative;
+    left: 57px;
+    top: 30px;
+    background: #ff0075;
+    color: #fff;
+    padding: 1px 15px;
+    border-radius: 12px;
+}
+.icons-link{
+    position: relative;
+    left: 57px;
+    background: #ff0075;
+    color: #fff;
+    padding: 1px 15px;
+    border-radius: 12px;
+}
+.icons-links{
+    position: relative;
+    left: 57px;
+    top: 30px;
+    background: #ff0075;
+    color: #fff;
+    padding: 1px 15px;
+    border-radius: 12px;
+}
+.header-main h5{
+    position: relative;
+    left: 5px;
+    top: 5px;
+}
+
+.main-boxs1 {
+    width: 170px;
+    height: 270px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0px 0px 5px 0px#696969;
+}
+.main-boxs2 {
+    width: 170px;
+    height: 270px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0px 0px 5px 0px #696969;
+}
+.main-boxs3 {
+    width: 170px;
+    height: 270px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0px 0px 5px 0px black;
+}
+.main-boxs4 {
+    width: 170px;
+    height: 270px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0px 0px 5px 0px black;
+}
